@@ -1,0 +1,11 @@
+[package]
+name = "phase15-defi-internals"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+
+[dev-dependencies]
+criterion = { workspace = true }
+proptest = { workspace = true }
+rand = { workspace = true }

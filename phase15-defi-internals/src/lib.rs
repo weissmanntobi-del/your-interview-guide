@@ -1,0 +1,5 @@
+pub mod challenge_01_constant_product_amm;
+pub mod challenge_02_concentrated_liquidity;
+pub mod challenge_03_order_book;
+pub mod challenge_04_liquidation_engine;
+pub mod challenge_05_oracle_aggregator;

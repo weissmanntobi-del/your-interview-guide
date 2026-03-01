@@ -1,0 +1,12 @@
+[package]
+name = "phase16-testing-debugging"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+tokio = { workspace = true }
+
+[dev-dependencies]
+proptest = { workspace = true }
+rand = { workspace = true }
+tokio = { workspace = true }

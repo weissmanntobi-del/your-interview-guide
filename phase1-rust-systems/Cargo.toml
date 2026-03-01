@@ -1,0 +1,15 @@
+[package]
+name = "phase1-rust-systems"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+tokio = { workspace = true }
+
+[dev-dependencies]
+criterion = { workspace = true }
+proptest = { workspace = true }
+
+[[bench]]
+name = "benchmarks"
+harness = false

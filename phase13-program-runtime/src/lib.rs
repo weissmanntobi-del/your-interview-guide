@@ -1,0 +1,5 @@
+pub mod challenge_01_ebpf_interpreter;
+pub mod challenge_02_syscall_dispatcher;
+pub mod challenge_03_account_serialization;
+pub mod challenge_04_cpi_depth_tracker;
+pub mod challenge_05_program_cache;
