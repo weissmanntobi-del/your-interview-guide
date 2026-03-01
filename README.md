@@ -1,4 +1,4 @@
-# Rust Solana Infra Dev Interview Prep
+# Rust Interview Prep
 
 A structured, progressive challenge set to prepare for senior Rust infrastructure engineer roles in the Solana ecosystem.
 
