@@ -1,3 +1,4 @@
+## Complete Rust Material : https://tobiweissmann.gumroad.com/l/gnuvxu
 # Rust Interview Prep
 
 A structured, progressive challenge set to prepare for senior Rust infrastructure engineer roles in the Solana ecosystem.
